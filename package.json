@@ -1,0 +1,16 @@
+{
+  "name": "oelliottistasite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"//elliottista.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
